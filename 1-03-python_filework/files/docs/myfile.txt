@@ -1,0 +1,4 @@
+Some text in English (Eng)
+Некоторый текст по-русски (Rus)
+String 3 (строка 3)
+String 4 (строка 4)
